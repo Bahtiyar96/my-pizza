@@ -12,9 +12,10 @@ const Navigation = () => {
       <NavigationWrapper>
          <RightNavigation>
             <Logo>
-               My Pizza
+               
             </Logo>
             <Anchor
+            affix={false}
                direction="horizontal"
                items={NavItems}
                className="linkNavigation"

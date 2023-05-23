@@ -63,3 +63,54 @@ export const NavItems = [
     src: "https://cdn.dribbble.com/users/404971/screenshots/1241486/pizza-logo.png"
   }
  ]
+
+ export const PizzaData = [
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/8786199fb5514be78be3de001cdaee9b_366x366.webp',
+    name: 'Пицца миксик',
+    desc: 'Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/e3f5dfcb094b4c9b8200ca9f573cb2f1_366x366.webp',
+    name: 'Пицца из половинок',
+    desc: 'Соберите свою пиццу 35 см с двумя разными вкусами',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/d7bbbc4c74af442e8b9b3ea2faf3c941_366x366.webp',
+    name: 'Пицца от шефа',
+    desc: 'Пастрами из мраморной говядины, сладкий перец, томаты, красный лук, чеснок, соус ткемали, моцарелла, фирменный томатный соус',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/0d033c8eb9b24b21828d2fdb7dc3246d_366x366.webp',
+    name: 'Гавайская с альфредо',
+    desc: 'Фирменный соус альфредо, цыпленок, моцарелла, ананасы',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/8786199fb5514be78be3de001cdaee9b_366x366.webp',
+    name: 'Пицца миксик',
+    desc: 'Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/e3f5dfcb094b4c9b8200ca9f573cb2f1_366x366.webp',
+    name: 'Пицца из половинок',
+    desc: 'Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/d7bbbc4c74af442e8b9b3ea2faf3c941_366x366.webp',
+    name: 'Пицца от шефа',
+    desc: 'Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо',
+    price: 495
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/0d033c8eb9b24b21828d2fdb7dc3246d_366x366.webp',
+    name: 'Гавайская с альфредо',
+    desc: 'Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо',
+    price: 495
+  }
+ ]
