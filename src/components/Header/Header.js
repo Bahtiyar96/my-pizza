@@ -35,17 +35,14 @@ const Header = () => {
          </HeaderRightBlock>
 
          <HeaderLeftBlock>
-
-         </HeaderLeftBlock>
             <Coins>
-               <DollarOutlined 
-                  style={{fontSize: '25px'}}
-               />
+               <DollarOutlined />
                <span>
                   Коины
                </span>
             </Coins>
             <SignIn>Войти</SignIn>
+         </HeaderLeftBlock>
       </HeaderWrapper>
    )
 }

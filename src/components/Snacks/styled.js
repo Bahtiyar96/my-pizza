@@ -4,7 +4,7 @@ export const Title = styled.h2`
    font-size: 26px;
 `
 
-export const PizzaContainer = styled.div`
+export const SnacksContainer = styled.div`
    display: flex;
    flex-wrap: wrap;
    justify-content: space-between;

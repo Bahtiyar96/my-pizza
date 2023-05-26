@@ -17,4 +17,5 @@
 }
 .slick-slide > div {
   display: flex;
+  gap: 19px;
 }

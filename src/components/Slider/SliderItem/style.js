@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const SliderItemWrapper = styled.div`
    background: url(${props=> props.src});
-   width: 250px;
-   height: 300px;
-   border: 5px solid gold;
-   border-radius: 25px;
-   background-size: contain;
+   width: 220px;
+   height: 280px;
+   border: 4px solid gold;
+   border-radius: 30px;
+   background-size: cover;
    margin-top: 2rem;
 `

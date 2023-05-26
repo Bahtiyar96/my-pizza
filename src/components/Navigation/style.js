@@ -5,12 +5,12 @@ export const NavigationWrapper = styled.div`
    display: flex;
    justify-content: space-between;
    align-items: center;
-   padding-top: 1rem;
+   padding-top: 5px;
+   padding-bottom: 5px;
 
    width: 100%;
    position: sticky;
    top: 0px;
-   // background-color: white;
    z-index: 10;
    backdrop-filter: blur(20px);
 
@@ -21,7 +21,7 @@ export const NavigationWrapper = styled.div`
       top: 0px;
       width: 100%;
       height: 100%;
-      // box-shadow: rgba(6, 5, 50, 0.1) 0px 0px 30px;
+      color: white;
    }
 `
 

@@ -51,6 +51,9 @@ export const Coins = styled.div`
       }
    }
 `
+export const DollarOutlined = styled.div`
+   font-size: 25px;
+`
 
 export const SignIn = styled(Button)`
    color: rgb(92, 99, 112);

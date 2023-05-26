@@ -4,8 +4,8 @@ import {
    NavigationWrapper,
    Logo,
    ButtonCard,
-   RightNavigation} 
-from './style';
+   RightNavigation
+} from './style';
 
 const Navigation = () => {
    return (
@@ -15,7 +15,7 @@ const Navigation = () => {
                
             </Logo>
             <Anchor
-            affix={false}
+               affix={false}
                direction="horizontal"
                items={NavItems}
                className="linkNavigation"
