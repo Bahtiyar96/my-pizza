@@ -5,8 +5,11 @@ export const PizzaContainer = styled.div`
 
 `
 
-export const PizzaWrapper = styled.div`
-   
+export const PizzaWrapper = styled.div`  
+   display: flex;
+   flex-direction: column;
+   cursor: pointer;
+   gap: 10px;
 `
 
 export const ImgBlock = styled.img`
@@ -42,5 +45,13 @@ export const CartButton = styled(Button)`
    }
    &:hover span {
       color: white;
+   }
+`
+
+export const ModalWrapper = styled.div`
+   display: flex;
+   gap: 20px;
+   & img {
+      width: 50%;
    }
 `

@@ -165,3 +165,30 @@ export const NavItems = [
     price: 249
   }
  ]
+
+ export const DesertData = [
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/3f3e8b312a3c4465b5c162ce459e3c73_366x366.webp',
+    name: 'Паста Карбонара',
+    desc: 'Легендарная горячая закуска с цыпленком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке',
+    price: 329
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/2ca9c6ce8014499db95a2aef44706c06_366x366.webp',
+    name: 'Паста Мясная',
+    desc: 'Легендарная горячая закуска с цыпленком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке',
+    price: 329
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/2ca9c6ce8014499db95a2aef44706c06_366x366.webp',
+    name: 'Паста Песто',
+    desc: 'Легендарная горячая закуска с цыпленком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке',
+    price: 169
+  },
+  {
+    img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/ccd4c30efe92439c9875496dd0ba4942_366x366.webp',
+    name: 'Сырные Палочки',
+    desc: 'Легендарная горячая закуска с цыпленком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке',
+    price: 249
+  }
+ ]

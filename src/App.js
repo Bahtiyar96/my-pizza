@@ -2,8 +2,7 @@ import './App.css';
 import Header from './components/Header/Header';
 import Navigation from './components/Navigation/Navigation';
 import Slider from './components/Slider/Slider';
-import Pizza from './components/Pizza/Pizza';
-import Snacks from './components/Snacks/Snacks';
+import Product from './components/Pizza/Product';
 
 function App() {
   return (
@@ -11,8 +10,9 @@ function App() {
       <Header />
       <Navigation />
       <Slider />
-      <Pizza />
-      <Snacks />
+      <Product id="pizzas" name="Пицца"/>
+      <Product id="snacks" name="Закуски"/>
+      <Product id="deserts" name="Десерты"/>
     </div>
   );
 }
